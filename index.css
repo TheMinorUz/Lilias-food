@@ -1,0 +1,129 @@
+.main{
+    position: relative;
+width: 1440px;
+height: 2500px;
+background: #00302E;
+}.logo_img{
+    position: absolute;
+width: 57.48px;
+height: 67px;
+left: 98px;
+top: 59px;
+
+}.logo_text{
+    position: absolute;
+width: 92px;
+height: 46px;
+left: 178px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}.nav_home{
+    position: absolute;
+width: 63px;
+height: 33px;
+left: 990px;
+top: 80px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 33px;
+/* identical to box height, or 157% */
+
+
+color: #FBDDBB;
+}.nav_login{
+    position: absolute;
+width: 57px;
+height: 33px;
+left: 1098px;
+top: 80px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 33px;
+/* identical to box height, or 157% */
+
+
+color: rgba(255, 255, 255, 0.87);
+
+}.signup_item{
+width: 66px;
+height: 33px;
+left: 1238px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 33px;
+color: #00302E;
+border: none;
+}.nav_signup{
+    position: absolute;
+    width: 142px;
+    height: 53px;
+    left: 1200px;
+    top: 73px;
+    
+    background: #E2B887;
+    border-radius: 7px;
+color: #00302E;
+
+}.cont1_title{
+    position: absolute;
+width: 650px;
+height: 167px;
+left: 98px;
+top: 361px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 77px;
+/* or 120% */
+
+
+color: #FFFFFF;
+}food{
+    color: #FBDDBB;
+}.cont1_text{
+    position: absolute;
+width: 609px;
+height: 77px;
+left: 98px;
+top: 549px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: rgba(255, 255, 255, 0.74);
+}.download_for{
+    position: absolute;
+width: 282px;
+height: 40px;
+left: 98px;
+top: 647px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
