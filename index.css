@@ -25,7 +25,7 @@ line-height: 54px;
 
 color: #FFFFFF;
 
-border: 1px solid #000000;
+border: 1px ;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }.nav_home{
     position: absolute;
@@ -126,4 +126,260 @@ left: 98px;
 top: 647px;
 
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}.cont2_title{
+    position: absolute;
+width: 463px;
+height: 33px;
+left: 489px;
+top: 867px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 33px;
+/* identical to box height, or 92% */
+
+
+color: rgba(255, 255, 255, 0.87);
+
+}.cont2_text{
+    position: absolute;
+width: 609px;
+height: 77px;
+left: 423px;
+top: 935px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+text-align: center;
+
+color: rgba(255, 255, 255, 0.83);
+}.stir_pasta{
+    position: absolute;
+width: 250px;
+height: 250px;
+left: 131px;
+top: 1108px;
+
+background: url(olayinka-babalola-r01ZopTiEV8-unsplash);
+border-radius: 400px;
+}.stir_pasta_name{
+    position: absolute;
+width: 177px;
+height: 33px;
+left: 186px;
+top: 1393px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height, or 122% */
+
+text-align: center;
+
+color: #FBDDBB;
+
+}.stir_pasta_text{
+    position: absolute;
+width: 288px;
+height: 66px;
+left: 132px;
+top: 1440px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+text-align: center;
+
+color: rgba(255, 255, 255, 0.83);
+
+}.meat_balls{
+    position: absolute;
+width: 250px;
+height: 250px;
+left: 612px;
+top: 1108px;
+
+background: url(emiliano-vittoriosi-OFismyezPnY-unsplash);
+border-radius: 400px;
+}.meat_ball_name{
+    position: absolute;
+    width: 144px;
+    height: 33px;
+    left: 663px;
+    top: 1393px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height, or 122% */
+    
+    text-align: center;
+    
+    color: #FBDDBB;
+    
+}.meat_ball_text{
+position: absolute;
+width: 288px;
+height: 66px;
+left: 593px;
+top: 1440px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+text-align: center;
+
+color: rgba(255, 255, 255, 0.83);
+
+}.burger_meal{
+    position: absolute;
+width: 250px;
+height: 250px;
+left: 1094px;
+top: 1108px;
+
+background: url(ben-kim-JjzjBLmANVA-unsplash);
+border-radius: 400px;
+}.burger_meal_name{
+    position: absolute;
+width: 168px;
+height: 33px;
+left: 1133px;
+top: 1393px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height, or 122% */
+
+text-align: center;
+
+color: #FBDDBB;
+}.burger_meal_text{
+    position: absolute;
+width: 288px;
+height: 66px;
+left: 1075px;
+top: 1440px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+text-align: center;
+
+color: rgba(255, 255, 255, 0.83);
+
+}.cont1_img{
+    position: absolute;
+width: 400px;
+height: 400px;
+left: 904px;
+top: 287px;
+
+background: url(bon-vivant-qom5MPOER-I-unsplash.jpg);
+border-radius: 400px;
+}.cont3_title{
+    position: absolute;
+width: 549px;
+height: 33px;
+left: 128px;
+top: 1775px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 33px;
+/* identical to box height, or 92% */
+
+
+color: #FBDDBB;
+
+}.cont3_text{
+    position: absolute;
+width: 531px;
+height: 66px;
+left: 126px;
+top: 1840px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: rgba(255, 255, 255, 0.95);
+
+}.cont_email{
+    position: absolute;
+width: 299px;
+height: 51px;
+left: 841px;
+top: 1822px;
+
+background: #F7F7F7;
+border: 1px solid #B3B3B3;
+border-radius: 5px;
+}.get_notified{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 40px;
+gap: 10px;
+
+position: absolute;
+width: 182px;
+height: 51px;
+left: 1148px;
+top: 1822px;
+
+background: #FBDDBB;
+border-radius: 5px;
+}.get_notified_item{
+    width: 102px;
+height: 21px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #00302E;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
 }
